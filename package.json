@@ -1,0 +1,36 @@
+{
+  "name": "gif-generator",
+  "version": "1.0.0",
+  "description": "This is an exercise with working with APIs and setting up technologies for styling and transpiling javascript.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.69.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.4",
+    "@babel/preset-env": "^7.16.11",
+    "css-loader": "^6.6.0",
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libmartinito/gif-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libmartinito/gif-generator/issues"
+  },
+  "homepage": "https://github.com/libmartinito/gif-generator#readme"
+}
